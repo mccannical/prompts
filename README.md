@@ -6,7 +6,7 @@
 > 
 > 📖 **[View All Prompts on GitHub (PROMPTS.md)](PROMPTS.md)**
 > 
-> 🔍 **[View All Prompts synced on GitHub (prompts.csv)](https://github.com/f/awesome-chatgpt-prompts/blob/main/prompts.csv)**
+> 🔍 **[View All Prompts synced on GitHub (prompts.csv)](https://github.com/mccannical/prompts/blob/main/prompts.csv)**
 > 
 > 📊 **[View All Prompts synced on Data Studio on HF (prompts.csv)](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts/viewer?views%5B%5D=train)**
 > 
@@ -27,19 +27,19 @@
 
 <div align="center">
   <a href="https://clemta.com/?utm_source=prompts.chat" align="center">
-    <img align="center" height="50" alt="Clemta logo" src="https://raw.githubusercontent.com/f/awesome-chatgpt-prompts/main/public/sponsors/clemta.webp">
+    <img align="center" height="50" alt="Clemta logo" src="https://raw.githubusercontent.com/mccannical/prompts/main/public/sponsors/clemta.webp">
   </a><br><br>
   <a href="https://wiro.ai/?utm_source=prompts.chat" align="center">
-    <img align="center" height="30" alt="Cognition logo" src="https://raw.githubusercontent.com/f/awesome-chatgpt-prompts/main/public/sponsors/wiro.png">
+    <img align="center" height="30" alt="Cognition logo" src="https://raw.githubusercontent.com/mccannical/prompts/main/public/sponsors/wiro.png">
   </a><br><br>
   <a href="https://wind.surf/prompts-chat" align="center">
-    <img align="center" height="40" alt="Cognition logo" src="https://raw.githubusercontent.com/f/awesome-chatgpt-prompts/main/public/sponsors/cognition.svg">
+    <img align="center" height="40" alt="Cognition logo" src="https://raw.githubusercontent.com/mccannical/prompts/main/public/sponsors/cognition.svg">
   </a><br><br>
   <a href="https://mitte.ai/?utm_source=prompts.chat" align="center">
-    <img align="center" height="40" alt="MitteAI logo" src="https://raw.githubusercontent.com/f/awesome-chatgpt-prompts/main/public/sponsors/mitte.svg">
+    <img align="center" height="40" alt="MitteAI logo" src="https://raw.githubusercontent.com/mccannical/prompts/main/public/sponsors/mitte.svg">
   </a><br><br>
   <a href="https://warp.dev/?utm_source=prompts.chat" align="center">
-    <img align="center" height="30" alt="Warp logo" src="https://raw.githubusercontent.com/f/awesome-chatgpt-prompts/main/public/sponsors/warp.svg">
+    <img align="center" height="30" alt="Warp logo" src="https://raw.githubusercontent.com/mccannical/prompts/main/public/sponsors/warp.svg">
   </a><br><br>
   <sub>prompts.chat is built with Windsurf and Devin by Cognition</sub>
 <hr>
@@ -48,7 +48,7 @@
 
 ---
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/f/awesome-chatgpt-prompts)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/mccannical/prompts)
 
 Welcome to the "Awesome ChatGPT Prompts" repository! While this collection was originally created for [ChatGPT](https://chat.openai.com/chat), these prompts work great with other AI models like [Claude](https://claude.ai/new), [Gemini](https://gemini.google.com), [Hugging Face Chat](https://hf.co/chat), [Llama](https://meta.ai), [Mistral](https://chat.mistral.ai), and more.
 
@@ -61,8 +61,8 @@ Check out our [Self-Hosting Guide](SELF-HOSTING.md) for instructions on setting 
 ### Quickstart
 
 ```bash
-git clone https://github.com/f/awesome-chatgpt-prompts.git
-cd awesome-chatgpt-prompts
+git clone https://github.com/mccannical/prompts.git
+cd prompts
 npm install
 npm run db:push
 npm run dev
@@ -73,8 +73,8 @@ npm run dev
 For private deployments, use our **interactive setup wizard** to configure your instance with custom branding, disable sponsorship sections, and set up authentication:
 
 ```bash
-git clone https://github.com/f/awesome-chatgpt-prompts.git
-cd awesome-chatgpt-prompts
+git clone https://github.com/mccannical/prompts.git
+cd prompts
 npm install
 npm run setup
 ```
@@ -141,7 +141,7 @@ Images from Text"**.
 
 # Prompts
 
-🔍 **[View All Prompts on GitHub (prompts.csv)](https://github.com/f/awesome-chatgpt-prompts/blob/main/prompts.csv)**
+🔍 **[View All Prompts on GitHub (prompts.csv)](https://github.com/mccannical/prompts/blob/main/prompts.csv)**
 
 📊 **[View All Prompts as Data Studio on HF (prompts.csv)](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts/viewer?views%5B%5D=train)**
 
@@ -153,8 +153,8 @@ Images from Text"**.
 
 Many thanks to these AI whisperers:
 
-<a href="https://github.com/f/awesome-chatgpt-prompts/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=f/awesome-chatgpt-prompts" />
+<a href="https://github.com/mccannical/prompts/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=mccannical/prompts" />
 </a>
 
 # License
